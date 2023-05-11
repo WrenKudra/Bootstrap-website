@@ -1,0 +1,46 @@
+body {
+    margin: auto;
+    width: 70%
+}
+
+footer {
+    text-align: center;
+}
+
+.topnav {
+    background-color: white;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover { /* Change the color of nav bar links on hover */
+    color: grey;
+  }
+
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
