@@ -30,7 +30,7 @@ Scroll through the Shop page:
 ## Note on improvements
 
 * I'd like to make this online store have a functional shopping cart.
-* Also, would like to add a Reviews page with headshots of cusomters. 
+* Also, would like to add a Reviews page with headshots of customers. 
 
 
 
