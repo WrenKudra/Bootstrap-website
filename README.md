@@ -1,5 +1,5 @@
 ## Deployed project
-Link: bootstrap-website-five.vercel.app
+This website was deployed with vercel. The link is: https://bootstrap-website-five.vercel.app/
 
 ## Technologies
 
